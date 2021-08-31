@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kt-internal/static/css/main.2176fd30.chunk.css",
+    "main.js": "/kt-internal/static/js/main.85a3b931.chunk.js",
+    "runtime-main.js": "/kt-internal/static/js/runtime-main.5fdce2a3.js",
+    "static/css/2.7aed2188.chunk.css": "/kt-internal/static/css/2.7aed2188.chunk.css",
+    "static/js/2.ffcafc1a.chunk.js": "/kt-internal/static/js/2.ffcafc1a.chunk.js",
+    "static/js/3.f7a28e3d.chunk.js": "/kt-internal/static/js/3.f7a28e3d.chunk.js",
+    "index.html": "/kt-internal/index.html",
+    "static/js/2.ffcafc1a.chunk.js.LICENSE.txt": "/kt-internal/static/js/2.ffcafc1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fdce2a3.js",
+    "static/css/2.7aed2188.chunk.css",
+    "static/js/2.ffcafc1a.chunk.js",
+    "static/css/main.2176fd30.chunk.css",
+    "static/js/main.85a3b931.chunk.js"
+  ]
+}
